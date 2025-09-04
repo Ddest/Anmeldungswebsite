@@ -1,0 +1,349 @@
+{
+    "monat":9,
+    "jahr": 2025,
+    "kurse": [
+        {
+            "tag": 2,
+            "maeglichkeiten": [
+                {
+                    "id":0,
+                    "name": "Sprachcafé Gruppe 1",
+                    "begin": {
+                        "uhr": 8,
+                        "minuten": 0
+                    },
+                    "ende": {
+                        "uhr": 9,
+                        "minuten": 30
+                    },
+                    "bemerkung": null
+                },
+                {
+                    "id":1,
+                    "name": "Sprachcafé Gruppe 2",
+                    "begin": {
+                        "uhr": 10,
+                        "minuten": 0
+                    },
+                    "ende": {
+                        "uhr": 11,
+                        "minuten": 30
+                    },
+                    "bemerkung": null
+                },
+                {
+                    "id":2,
+                    "name": "Interkulturelles Training Module: Essen und Trinken, Die Kunst der Beurteilung (Kritik), Landeskunde:",
+                    "begin": {
+                        "uhr": 8,
+                        "minuten": 30
+                    },
+                    "ende": {
+                        "uhr": 12,
+                        "minuten": 45
+                    },
+                    "bemerkung": null
+                }
+            ]
+        },
+        {
+            "tag": 3,
+            "maeglichkeiten": [
+                {
+                    "id":3,
+                    "name": "Fachsprachcafé f. Hebammen Modul 1",
+                    "begin": {
+                        "uhr": 8,
+                        "minuten": 30
+                    },
+                    "ende": {
+                        "uhr": 10,
+                        "minuten": 30
+                    },
+                    "bemerkung": "Anmeldung nur möglich, wenn Sie Hebamme sind"
+                },
+                {
+                    "id":4,
+                    "name": "Bewerbungssprachcafé – Bewerbungsunterlagen",
+                    "begin": {
+                        "uhr": 11,
+                        "minuten": 0
+                    },
+                    "ende": {
+                        "uhr": 12,
+                        "minuten": 30
+                    },
+                    "bemerkung": null
+                }
+            ]
+        },
+        {
+            "tag": 4,
+            "maeglichkeiten": [
+                {
+                    "id":5,
+                    "name": "Willkommen in Hessen Kurs Modul 3 – Erziehung und Familie",
+                    "begin": {
+                        "uhr": 8,
+                        "minuten": 30
+                    },
+                    "ende": {
+                        "uhr": 12,
+                        "minuten": 0
+                    },
+                    "bemerkung": null
+                }
+            ]
+        },
+        {
+            "tag": 5,
+            "maeglichkeiten": [
+                {
+                    "id":6,
+                    "name": "Fachsprachcafé für Anästhesie Technische Assistenten",
+                    "begin": {
+                        "uhr": 9,
+                        "minuten": 0
+                    },
+                    "ende": {
+                        "uhr": 11,
+                        "minuten": 0
+                    },
+                    "bemerkung": "Anmeldung nur möglich, wenn Sie ATA sind"
+                }
+            ]
+        },
+        {
+            "tag": 9,
+            "maeglichkeiten": [
+                {
+                    "id":7,
+                    "name": "Kurs „Papa im Kreißsaal – ja oder nein?“",
+                    "begin": {
+                        "uhr": 10,
+                        "minuten": 0
+                    },
+                    "ende": {
+                        "uhr": 11,
+                        "minuten": 30
+                    },
+                    "bemerkung": "Anmeldung nur möglich, wenn Sie Hebamme sind"
+                }
+            ]
+        },
+        {
+            "tag": 10,
+            "maeglichkeiten": [
+                {
+                    "id":8,
+                    "name": "Bewerbungstraining",
+                    "begin": {
+                        "uhr": 9,
+                        "minuten": 0
+                    },
+                    "ende": {
+                        "uhr": 12,
+                        "minuten": 0
+                    },
+                    "bemerkung": null
+                }
+            ]
+        },
+        {
+            "tag": 11,
+            "maeglichkeiten": [
+                {
+                    "id":9,
+                    "name": "Gesundheitswesen in Deutschland",
+                    "begin": {
+                        "uhr": 8,
+                        "minuten": 30
+                    },
+                    "ende": {
+                        "uhr": 12,
+                        "minuten": 0
+                    },
+                    "bemerkung": null
+                }
+            ]
+        },
+        {
+            "tag": 16,
+            "maeglichkeiten": [
+                {
+                    "id":10,
+                    "name": "Fachsprachcafé f. Hebammen Modul 2",
+                    "begin": {
+                        "uhr": 8,
+                        "minuten": 30
+                    },
+                    "ende": {
+                        "uhr": 10,
+                        "minuten": 30
+                    },
+                    "bemerkung": "Anmeldung nur möglich, wenn Sie Hebamme sind"
+                },
+                {
+                    "id":11,
+                    "name": "Bewerbungssprachcafé – Vorstellungsgespräch",
+                    "begin": {
+                        "uhr": 11,
+                        "minuten": 0
+                    },
+                    "ende": {
+                        "uhr": 12,
+                        "minuten": 30
+                    },
+                    "bemerkung": null
+                }
+            ]
+        },
+        {
+            "tag": 17,
+            "maeglichkeiten": [
+                {
+                    "id":12,
+                    "name": "Sprachcafé Gruppe 1",
+                    "begin": {
+                        "uhr": 8,
+                        "minuten": 30
+                    },
+                    "ende": {
+                        "uhr": 9,
+                        "minuten": 30
+                    },
+                    "bemerkung": null
+                },
+                {
+                    "id":13,
+                    "name": "Sprachcafé Gruppe 2",
+                    "begin": {
+                        "uhr": 10,
+                        "minuten": 0
+                    },
+                    "ende": {
+                        "uhr": 11,
+                        "minuten": 30
+                    },
+                    "bemerkung": null
+                },
+                {
+                    "id":14,
+                    "name": "Sprachcafé Gruppe 3",
+                    "begin": {
+                        "uhr": 13,
+                        "minuten": 0
+                    },
+                    "ende": {
+                        "uhr": 14,
+                        "minuten": 30
+                    },
+                    "bemerkung": null
+                }
+            ]
+        },
+        {
+            "tag": 18,
+            "maeglichkeiten": [
+                {
+                    "id":15,
+                    "name": "Willkommen in Hessen Kurs Modul 4 – Arbeit und Finanzen",
+                    "begin": {
+                        "uhr": 8,
+                        "minuten": 30
+                    },
+                    "ende": {
+                        "uhr": 12,
+                        "minuten": 0
+                    },
+                    "bemerkung": null
+                }
+            ]
+        },
+        {
+            "tag": 19,
+            "maeglichkeiten": [
+                {
+                    "id":16,
+                    "name": "Fach- und Berufssprachcafé Pflegefachmann/ Fachfrau Modul 1",
+                    "begin": {
+                        "uhr": 9,
+                        "minuten": 0
+                    },
+                    "ende": {
+                        "uhr": 11,
+                        "minuten": 0
+                    },
+                    "bemerkung": null
+                }
+            ]
+        },
+        {
+            "tag": 23,
+            "maeglichkeiten": [
+                {
+                    "id":17,
+                    "name": "Erstes Pflegewissen für Deutschland, Modul 7 Gesprächsführung, Gewalt in der Pflege Tag 1",
+                    "begin": {
+                        "uhr": 8,
+                        "minuten": 0
+                    },
+                    "ende": {
+                        "uhr": 13,
+                        "minuten": 0
+                    },
+                    "bemerkung": "Sie können sich nicht für diesen Kurs anmelden, wenn Sie Auszubildender sind oder eine Ausbildung suchen"
+                }
+            ]
+        },
+        {
+            "tag": 24,
+            "maeglichkeiten": [
+                {
+                    "id":18,
+                    "name": "Erstes Pflegewissen für Deutschland, Modul 7 Gesprächsführung, Gewalt in der Pflege Tag 2",
+                    "begin": {
+                        "uhr": 8,
+                        "minuten": 0
+                    },
+                    "ende": {
+                        "uhr": 13,
+                        "minuten": 0
+                    },
+                    "bemerkung": "Sie können sich nicht für diesen Kurs anmelden, wenn Sie Auszubildender sind oder eine Ausbildung suchen"
+                }
+            ]
+        },
+        {
+            "tag": 30,
+            "maeglichkeiten": [
+                {
+                    "id":19,
+                    "name": "Fachsprachcafé f. Hebammen Modul 3",
+                    "begin": {
+                        "uhr": 8,
+                        "minuten": 30
+                    },
+                    "ende": {
+                        "uhr": 10,
+                        "minuten": 30
+                    },
+                    "bemerkung": "Anmeldung nur möglich, wenn Sie Hebamme sind"
+                },
+                {
+                    "id":20,
+                    "name": "Bewerbungssprachcafé – Vorstellungsgespräch üben Gruppe",
+                    "begin": {
+                        "uhr": 11,
+                        "minuten": 0
+                    },
+                    "ende": {
+                        "uhr": 12,
+                        "minuten": 30
+                    },
+                    "bemerkung": "Anmeldung nur möglich, wenn Sie Hebamme sind"
+                }
+            ]
+        }
+    ]
+}
